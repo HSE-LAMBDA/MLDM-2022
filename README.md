@@ -8,3 +8,6 @@ We will collect your home assignment solutions through private github repositori
 -|-|-
 01 | [01-intro/DataHandling_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/01-intro/DataHandling_HW.ipynb) | Oct, 2
 02| [02-linear-regression/LinearRegression_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/02-linear-regression/LinearRegression_HW.ipynb) | Oct, 9
+
+## [IMPORTANT!] Exam guidelines
+Please read carefully the [guidelines for the exam project](https://github.com/HSE-LAMBDA/mldm-2022/blob/main/Exam-project-guidelines.md). Let us know if you have any questions.
