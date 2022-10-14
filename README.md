@@ -10,6 +10,8 @@ We will collect your home assignment solutions through private github repositori
 02| [02-linear-regression/LinearRegression_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/02-linear-regression/LinearRegression_HW.ipynb) | Oct, 9
 03| [03-linear-classification/Classification_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/03-linear-classification/Classification_HW.ipynb) | Oct, 16
 04| [04-regularization/Regularization_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/04-regularization/Regularization_HW.ipynb) | Oct, 23
+05| [06-model-evaluation/QualityMetrics_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/06-model-evaluation/QualityMetrics_HW.ipynb) | Oct, 30
+06| [07-trees/DecisionTrees_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/07-trees/DecisionTrees_HW.ipynb) | Nov, 6
 
 ## [IMPORTANT!] Exam guidelines
 Please read carefully the [guidelines for the exam project](https://github.com/HSE-LAMBDA/mldm-2022/blob/main/Exam-project-guidelines.md). Let us know if you have any questions.
