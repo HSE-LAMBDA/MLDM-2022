@@ -15,6 +15,7 @@ We will collect your home assignment solutions through private github repositori
 07| [08-ensembles/Ensembles_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/08-ensembles/Ensembles_HW.ipynb) | Nov, 20
 08| [09-neural-networks/NNs_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/09-neural-networks/NNs_HW.ipynb) | Nov, 27
 09| [12-architectures/TL_AE_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/12-architectures/TL_AE_HW.ipynb) | Dec, 11
+10| [13-GANs/GAN_HW.ipynb](https://github.com/HSE-LAMBDA/MLDM-2022/blob/main/13-GANs/GAN_HW.ipynb) | Dec, 25
 
 ## [IMPORTANT!] Exam guidelines
 Please read carefully the [guidelines for the exam project](https://github.com/HSE-LAMBDA/mldm-2022/blob/main/Exam-project-guidelines.md). Let us know if you have any questions.
